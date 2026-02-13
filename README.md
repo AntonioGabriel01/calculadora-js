@@ -15,3 +15,5 @@ Projeto de uma calculadora simples desenvolvida com HTML, CSS e JavaScript puro.
 
 ## 🎯 Objetivo
 Projeto de estudo para praticar lógica de programação e manipulação do DOM.
+
+![Preview da aplicação](preview.png)
